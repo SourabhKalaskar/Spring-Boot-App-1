@@ -7,4 +7,12 @@ public class Car {
 		// changes for H-122
 
 	}
+
+	public void m2() {
+		// changes for feature-300
+	}
+
+
+
+
 }
