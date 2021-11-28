@@ -12,6 +12,8 @@ public class SpringBootApp01Application {
 	
 	//changes for H322
 	
+	int i=20;
+
 	
 	context.close();
 	
