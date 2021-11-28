@@ -10,6 +10,9 @@ public class SpringBootApp01Application {
 	public static void main(String[] args) {
 	ConfigurableApplicationContext context=	SpringApplication.run(SpringBootApp01Application.class, args);
 	
+	//changes for H322
+	
+	
 	context.close();
 	
 	}
